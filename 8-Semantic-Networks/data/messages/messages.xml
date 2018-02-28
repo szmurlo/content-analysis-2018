@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT from="my_dataset">
+<Participants>
+<participant id="AP" name="AP" role="Adult" language="eng"/>
+<participant id="BM" name="BM" role="Adult" language="eng"/>
+<participant id="TD" name="TD" role="Adult" language="eng"/>
+<participant id="DP" name="DP" role="Adult" language="eng"/>
+<participant id="CM" name="CM" role="Adult" language="eng"/>
+<participant id="NM" name="NM" role="Adult" language="eng"/>
+<participant id="SZ" name="SZ" role="Adult" language="eng"/>
+<participant id="JM" name="JM" role="Adult" language="eng"/>
+<participant id="SD" name="SD" role="Adult" language="eng"/>
+<participant id="LM" name="LM" role="Adult" language="eng"/>
+</Participants>
+
+<u who="SD" uID="#9">
+<w>tldr</w>
+<w>i</w>
+<w>did</w>
+<w>not</w>
+<w>post</w>
+<w>photo</w>
+<media start="1" end="2" unit="s"/>
+</u>
+
+<u who="BM" uID="#2">
+<w>fake</w>
+<w>news</w>
+<media start="3" end="4" unit="s"/>
+</u>
+
+<u who="CM" uID="#5">
+<w>httpsyoutubectkmtrcjvi</w>
+<media start="5" end="6" unit="s"/>
+</u>
+
+<u who="CM" uID="#5">
+<w>wipe</w>
+<w>out</w>
+<media start="7" end="8" unit="s"/>
+</u>
+
+<u who="CM" uID="#5">
+<w>httpstwittercomtidestatus</w>
+<media start="9" end="10" unit="s"/>
+</u>
+
+<u who="TD" uID="#3">
+<w>wwwwwwwwwwipeout</w>
+<media start="11" end="12" unit="s"/>
+</u>
+
+<u who="JM" uID="#8">
+<w>hey</w>
+<w>fellas</w>
+<w>how</w>
+<w>many</w>
+<w>holes</w>
+<w>does</w>
+<w>a</w>
+<w>straw</w>
+<w>have</w>
+<media start="13" end="14" unit="s"/>
+</u>
+
+<u who="JM" uID="#8">
+<w>you</w>
+<w>can</w>
+<w>probably</w>
+<w>just</w>
+<w>have</w>
+<w>it</w>
+<media start="15" end="16" unit="s"/>
+</u>
+
+<u who="JM" uID="#8">
+<w>ut</w>
+<w>keep</w>
+<w>the</w>
+<w>chunks</w>
+<media start="17" end="18" unit="s"/>
+</u>
+
+<u who="SD" uID="#9">
+<w>is</w>
+<w>what</w>
+<w>i</w>
+<w>have</w>
+<w>to</w>
+<w>say</w>
+<w>to</w>
+<media start="19" end="20" unit="s"/>
+</u>
+
+<u who="JM" uID="#8">
+<w>yum</w>
+<media start="21" end="22" unit="s"/>
+</u>
+
+<u who="NM" uID="#6">
+<w>holy</w>
+<w>shit</w>
+<w>what</w>
+<w>happened</w>
+<media start="23" end="24" unit="s"/>
+</u>
+
+<u who="BM" uID="#2">
+<w>how</w>
+<w>is</w>
+<w>it</w>
+<w>betterworse</w>
+<media start="25" end="26" unit="s"/>
+</u>
+
+<u who="JM" uID="#8">
+<w>whats</w>
+<w>the</w>
+<w>recipe</w>
+<w>again</w>
+<media start="27" end="28" unit="s"/>
+</u>
+
+<u who="SD" uID="#9">
+<w>two</w>
+<w>dollar</w>
+<w>chuck</w>
+<w>orange</w>
+<w>zest</w>
+<w>fingernail</w>
+<media start="29" end="30" unit="s"/>
+</u>
+
+<u who="SD" uID="#9">
+<w>love</w>
+<w>this</w>
+<w>game</w>
+<w>please</w>
+<w>continue</w>
+<media start="31" end="32" unit="s"/>
+</u>
+
+<u who="JM" uID="#8">
+<w>girl</w>
+<w>bachelorette</w>
+<w>toe</w>
+<w>jamboree</w>
+<w>is</w>
+<w>my</w>
+<w>for</w>
+<w>sure</w>
+<media start="33" end="34" unit="s"/>
+</u>
+
+<u who="JM" uID="#8">
+<w>two</w>
+<w>takes</w>
+<w>on</w>
+<w>the</w>
+<w>same</w>
+<w>story</w>
+<w>i</w>
+<w>like</w>
+<w>it</w>
+<media start="35" end="36" unit="s"/>
+</u>
+
+<u who="TD" uID="#3">
+<w>it</w>
+<w>was</w>
+<w>definitely</w>
+<w>a</w>
+<w>highlight</w>
+<w>of</w>
+<w>the</w>
+<w>short</w>
+<w>we</w>
+<w>with</w>
+<w>on</w>
+<w>this</w>
+<w>earth</w>
+<media start="37" end="38" unit="s"/>
+</u>
+
+<u who="TD" uID="#3">
+<w>services</w>
+<w>will</w>
+<w>be</w>
+<w>held</w>
+<w>at</w>
+<w>the</w>
+<w>chinatown</w>
+<w>karaoke</w>
+<w>lounge</w>
+<media start="39" end="40" unit="s"/>
+</u>
+
+<u who="SD" uID="#9">
+<w>i</w>
+<w>feel</w>
+<w>a</w>
+<w>strange</w>
+<w>mix</w>
+<w>of</w>
+<w>shame</w>
+<w>and</w>
+<w>love</w>
+<w>right</w>
+<w>now</w>
+<media start="41" end="42" unit="s"/>
+</u>
+
+<u who="JM" uID="#8">
+<w>tw</w>
+<w>def</w>
+<w>making</w>
+<w>a</w>
+<w>batch</w>
+<w>cocktail</w>
+<w>for</w>
+<w>next</w>
+<w>get</w>
+<w>together</w>
+<w>called</w>
+<w>shamegria</w>
+<media start="43" end="44" unit="s"/>
+</u>
+
+<u who="TD" uID="#3">
+<w>called</w>
+<w>the</w>
+<w>soccer</w>
+<w>mom</w>
+<media start="45" end="46" unit="s"/>
+</u>
+
+<u who="JM" uID="#8">
+<w>stabbed</w>
+<w>to</w>
+<w>let</w>
+<w>the</w>
+<w>juice</w>
+<w>out</w>
+<w>but</w>
+<w>the</w>
+<w>whole</w>
+<w>capri</w>
+<w>sun</w>
+<w>is</w>
+<w>in</w>
+<w>the</w>
+<w>punch</w>
+<w>bowl</w>
+<media start="47" end="48" unit="s"/>
+</u>
+
+<u who="DP" uID="#4">
+<w>re</w>
+<w>golden</w>
+<w>teardrops</w>
+<media start="49" end="50" unit="s"/>
+</u>
+
+<u who="DP" uID="#4">
+<w>yes</w>
+<w>very</w>
+<w>muc</w>
+<media start="51" end="52" unit="s"/>
+</u>
+
+<u who="DP" uID="#4">
+<w>much</w>
+<media start="53" end="54" unit="s"/>
+</u>
+
+<u who="DP" uID="#4">
+<w>when</w>
+<w>tho</w>
+<media start="55" end="56" unit="s"/>
+</u>
+
+<u who="DP" uID="#4">
+<w>tryin</w>
+<w>to</w>
+<w>see</w>
+<w>my</w>
+<w>friend</w>
+<w>play</w>
+<w>a</w>
+<w>show</w>
+<w>before</w>
+<w>or</w>
+<w>after</w>
+<media start="57" end="58" unit="s"/>
+</u>
+
+<u who="LM" uID="#10">
+<w>shamegriiiiii</w>
+<media start="59" end="60" unit="s"/>
+</u>
+
+<u who="BM" uID="#2">
+<w>shameot</w>
+<w>gris</w>
+<media start="61" end="62" unit="s"/>
+</u>
+
+<u who="LM" uID="#10">
+<w>yknow</w>
+<w>like</w>
+<w>one</w>
+<w>scene</w>
+<w>fromgaeden</w>
+<w>state</w>
+<media start="63" end="64" unit="s"/>
+</u>
+
+<u who="LM" uID="#10">
+<w>dark</w>
+<media start="65" end="66" unit="s"/>
+</u>
+
+<u who="SD" uID="#9">
+<w>whats</w>
+<w>the</w>
+<w>most</w>
+<w>shameful</w>
+<w>thing</w>
+<w>youve</w>
+<w>done</w>
+<w>this</w>
+<w>week</w>
+<media start="67" end="68" unit="s"/>
+</u>
+
+<u who="JM" uID="#8">
+<w>u</w>
+<media start="69" end="70" unit="s"/>
+</u>
+
+<u who="SD" uID="#9">
+<w>because</w>
+<w>too</w>
+<w>lazy</w>
+<w>to</w>
+<w>buy</w>
+<w>more</w>
+<media start="71" end="72" unit="s"/>
+</u>
+
+<u who="DP" uID="#4">
+<w>i</w>
+<w>watched</w>
+<w>video</w>
+<w>game</w>
+<w>speed</w>
+<w>runs</w>
+<w>more</w>
+<w>than</w>
+<w>i</w>
+<w>worked</w>
+<media start="73" end="74" unit="s"/>
+</u>
+
+<u who="AP" uID="#1">
+<w>what</w>
+<w>are</w>
+<w>the</w>
+<w>hangs</w>
+<w>today</w>
+<media start="75" end="76" unit="s"/>
+</u>
+
+<u who="AP" uID="#1">
+<w>should</w>
+<w>i</w>
+<w>come</w>
+<w>up</w>
+<media start="77" end="78" unit="s"/>
+</u>
+
+<u who="TD" uID="#3">
+<w>some</w>
+<w>dudes</w>
+<w>from</w>
+<w>high</w>
+<w>school</w>
+<w>go</w>
+<w>falcons</w>
+<w>are</w>
+<w>watching</w>
+<w>the</w>
+<w>big</w>
+<w>game</w>
+<w>somewhere</w>
+<w>in</w>
+<w>lake</w>
+<w>view</w>
+<media start="79" end="80" unit="s"/>
+</u>
+
+<u who="TD" uID="#3">
+<w>talked</w>
+<w>to</w>
+<w>them</w>
+<w>in</w>
+<w>six</w>
+<w>or</w>
+<w>seven</w>
+<w>years</w>
+<w>thinking</w>
+<w>to</w>
+<w>reconnect</w>
+<w>over</w>
+<w>sport</w>
+<media start="81" end="82" unit="s"/>
+</u>
+
+<u who="SZ" uID="#7">
+<w>hey</w>
+<w>friends</w>
+<media start="83" end="84" unit="s"/>
+</u>
+
+<u who="SZ" uID="#7">
+<w>welcome</w>
+<w>back</w>
+<media start="85" end="86" unit="s"/>
+</u>
+
+<u who="JM" uID="#8">
+<w>have</w>
+<w>you</w>
+<w>made</w>
+<w>before</w>
+<w>i</w>
+<w>need</w>
+<w>a</w>
+<w>scoby</w>
+<media start="87" end="88" unit="s"/>
+</u>
+
+<u who="SZ" uID="#7">
+<w>crazy</w>
+<w>thing</w>
+<media start="89" end="90" unit="s"/>
+</u>
+
+<u who="SZ" uID="#7">
+<w>i</w>
+<w>dont</w>
+<w>have</w>
+<w>access</w>
+<w>to</w>
+<w>the</w>
+<w>thread</w>
+<w>past</w>
+<w>today</w>
+<media start="91" end="92" unit="s"/>
+</u>
+
+<u who="SZ" uID="#7">
+<w>cause</w>
+<w>i</w>
+<w>left</w>
+<media start="93" end="94" unit="s"/>
+</u>
+
+<u who="JM" uID="#8">
+<w>uh</w>
+<w>oh</w>
+<media start="95" end="96" unit="s"/>
+</u>
+
+<u who="SZ" uID="#7">
+<w>lost</w>
+<w>ever</w>
+<media start="97" end="98" unit="s"/>
+</u>
+
+<u who="SZ" uID="#7">
+<w>i</w>
+<w>dont</w>
+<w>think</w>
+<w>possible</w>
+<media start="99" end="100" unit="s"/>
+</u>
+
+<u who="SZ" uID="#7">
+<w>you</w>
+<w>see</w>
+<w>like</w>
+<w>santa</w>
+<media start="101" end="102" unit="s"/>
+</u>
+
+<u who="SZ" uID="#7">
+<w>someone</w>
+<w>says</w>
+<w>my</w>
+<w>name</w>
+<media start="103" end="104" unit="s"/>
+</u>
+
+<u who="SZ" uID="#7">
+<w>i</w>
+<w>hear</w>
+<w>it</w>
+<media start="105" end="106" unit="s"/>
+</u>
+
+<u who="SZ" uID="#7">
+<w>its</w>
+<w>v</w>
+<w>popular</w>
+<w>i</w>
+<w>hear</w>
+<w>it</w>
+<w>all</w>
+<w>the</w>
+<media start="107" end="108" unit="s"/>
+</u>
+
+<u who="TD" uID="#3">
+<w>zuck</w>
+<w>can</w>
+<w>we</w>
+<w>get</w>
+<w>an</w>
+<w>eye</w>
+<w>roll</w>
+<w>reaction</w>
+<media start="109" end="110" unit="s"/>
+</u>
+
+<u who="TD" uID="#3">
+<w>this</w>
+<w>photo</w>
+<w>of</w>
+<w>noah</w>
+<w>is</w>
+<w>five</w>
+<w>years</w>
+<w>old</w>
+<w>now</w>
+<media start="111" end="112" unit="s"/>
+</u>
+
+<u who="AP" uID="#1">
+<w>noah</w>
+<w>looks</w>
+<w>like</w>
+<w>a</w>
+<w>baby</w>
+<media start="113" end="114" unit="s"/>
+</u>
+
+<u who="SZ" uID="#7">
+<w>no</w>
+<w>hows</w>
+<w>it</w>
+<w>feel</w>
+<w>knowing</w>
+<w>peaked</w>
+<media start="115" end="116" unit="s"/>
+</u>
+
+<u who="SZ" uID="#7">
+<w>this</w>
+<w>thread</w>
+<w>needs</w>
+<w>more</w>
+<w>content</w>
+<media start="117" end="118" unit="s"/>
+</u>
+
+<u who="SZ" uID="#7">
+<w>i</w>
+<w>approve</w>
+<media start="119" end="120" unit="s"/>
+</u>
+
+<u who="AP" uID="#1">
+<w>noah</w>
+<w>has</w>
+<w>not</w>
+<w>peaked</w>
+<w>yet</w>
+<media start="121" end="122" unit="s"/>
+</u>
+
+<u who="TD" uID="#3">
+<w>was</w>
+<w>in</w>
+<w>the</w>
+<w>triple</w>
+<w>it</w>
+<w>szmu</w>
+<media start="123" end="124" unit="s"/>
+</u>
+
+<u who="TD" uID="#3">
+<w>was</w>
+<w>your</w>
+<w>bed</w>
+<media start="125" end="126" unit="s"/>
+</u>
+
+<u who="AP" uID="#1">
+<w>triple</w>
+<w>pairing</w>
+<w>was</w>
+<w>amazing</w>
+<media start="127" end="128" unit="s"/>
+</u>
+
+<u who="AP" uID="#1">
+<w>we</w>
+<w>definitely</w>
+<w>upgraded</w>
+<w>brians</w>
+<media start="129" end="130" unit="s"/>
+</u>
+
+<u who="BM" uID="#2">
+<w>making</w>
+<w>breakfast</w>
+<w>for</w>
+<w>lunch</w>
+<media start="131" end="132" unit="s"/>
+</u>
+
+<u who="AP" uID="#1">
+<w>best</w>
+<w>if</w>
+<w>we</w>
+<w>leave</w>
+<w>it</w>
+<w>at</w>
+<media start="133" end="134" unit="s"/>
+</u>
+
+<u who="NM" uID="#6">
+<w>he</w>
+<w>liked</w>
+<w>band</w>
+<w>more</w>
+<w>than</w>
+<w>us</w>
+<media start="135" end="136" unit="s"/>
+</u>
+
+<u who="AP" uID="#1">
+<w>kinda</w>
+<w>like</w>
+<w>our</w>
+<w>provolone</w>
+<w>boys</w>
+<media start="137" end="138" unit="s"/>
+</u>
+
+<u who="NM" uID="#6">
+<w>picture</w>
+<w>is</w>
+<w>borderline</w>
+<w>pornographic</w>
+<media start="139" end="140" unit="s"/>
+</u>
+
+<u who="NM" uID="#6">
+<w>like</w>
+<w>if</w>
+<w>anyone</w>
+<w>is</w>
+<w>curious</w>
+<w>about</w>
+<w>what</w>
+<w>ol</w>
+<w>nilberts</w>
+<w>looks</w>
+<w>like</w>
+<media start="141" end="142" unit="s"/>
+</u>
+
+<u who="NM" uID="#6">
+<w>right</w>
+<w>there</w>
+<media start="143" end="144" unit="s"/>
+</u>
+
+<u who="SZ" uID="#7">
+<w>his</w>
+<w>blanket</w>
+<media start="145" end="146" unit="s"/>
+</u>
+
+<u who="SZ" uID="#7">
+<w>and</w>
+<w>posters</w>
+<media start="147" end="148" unit="s"/>
+</u>
+
+<u who="SZ" uID="#7">
+<w>know</w>
+<w>if</w>
+<w>the</w>
+<w>triple</w>
+<media start="149" end="150" unit="s"/>
+</u>
+
+<u who="NM" uID="#6">
+<w>it</w>
+<w>def</w>
+<w>is</w>
+<w>the</w>
+<w>triple</w>
+<media start="151" end="152" unit="s"/>
+</u>
+
+<u who="SZ" uID="#7">
+<w>lol</w>
+<media start="153" end="154" unit="s"/>
+</u>
+
+<u who="NM" uID="#6">
+<w>corey</w>
+<w>had</w>
+<w>a</w>
+<w>bunk</w>
+<w>bed</w>
+<w>freshman</w>
+<w>year</w>
+<media start="155" end="156" unit="s"/>
+</u>
+
+<u who="AP" uID="#1">
+<w>noah</w>
+<w>are</w>
+<w>you</w>
+<w>a</w>
+<w>grower</w>
+<w>or</w>
+<w>a</w>
+<w>shower</w>
+<media start="157" end="158" unit="s"/>
+</u>
+
+<u who="NM" uID="#6">
+<w>neither</w>
+<media start="159" end="160" unit="s"/>
+</u>
+
+<u who="SZ" uID="#7">
+<w>the</w>
+<w>dog</w>
+<media start="161" end="162" unit="s"/>
+</u>
+
+<u who="LM" uID="#10">
+<w>summoner</w>
+<media start="163" end="164" unit="s"/>
+</u>
+
+<u who="SZ" uID="#7">
+<w>dif</w>
+<media start="165" end="166" unit="s"/>
+</u>
+
+<u who="NM" uID="#6">
+<w>up</w>
+<w>dog</w>
+<media start="167" end="168" unit="s"/>
+</u>
+
+<u who="AP" uID="#1">
+<w>def</w>
+<w>a</w>
+<w>summoner</w>
+<media start="169" end="170" unit="s"/>
+</u>
+
+<u who="LM" uID="#10">
+<w>conjurer</w>
+<w>type</w>
+<media start="171" end="172" unit="s"/>
+</u>
+
+<u who="SZ" uID="#7">
+<w>freudian</w>
+<w>nip</w>
+<w>slip</w>
+<media start="173" end="174" unit="s"/>
+</u>
+
+<u who="NM" uID="#6">
+<w>more</w>
+<w>elemental</w>
+<media start="175" end="176" unit="s"/>
+</u>
+
+<u who="NM" uID="#6">
+<w>conjur</w>
+<media start="177" end="178" unit="s"/>
+</u>
+
+<u who="SZ" uID="#7">
+<w>we</w>
+<w>in</w>
+<w>rogers</w>
+<w>park</w>
+<w>rn</w>
+<media start="179" end="180" unit="s"/>
+</u>
+
+<u who="SZ" uID="#7">
+<w>and</w>
+<w>trumpet</w>
+<media start="181" end="182" unit="s"/>
+</u>
+
+<u who="DP" uID="#4">
+<w>whoah</w>
+<w>whoah</w>
+<w>whoah</w>
+<media start="183" end="184" unit="s"/>
+</u>
+
+<u who="DP" uID="#4">
+<w>u</w>
+<w>up</w>
+<w>north</w>
+<media start="185" end="186" unit="s"/>
+</u>
+
+<u who="SZ" uID="#7">
+<w>i</w>
+<w>actually</w>
+<w>know</w>
+<w>what</w>
+<w>he</w>
+<w>plays</w>
+<media start="187" end="188" unit="s"/>
+</u>
+
+<u who="SZ" uID="#7">
+<w>but</w>
+<w>music</w>
+<media start="189" end="190" unit="s"/>
+</u>
+
+<u who="SZ" uID="#7">
+<w>cash</w>
+<w>bar</w>
+<media start="191" end="192" unit="s"/>
+</u>
+
+<u who="LM" uID="#10">
+<w>penisesnen</w>
+<media start="193" end="194" unit="s"/>
+</u>
+
+<u who="LM" uID="#10">
+<w>i</w>
+<w>x</w>
+<w>speak</w>
+<w>x</w>
+<w>the</w>
+<w>x</w>
+<w>truth</w>
+<media start="195" end="196" unit="s"/>
+</u>
+
+<u who="SZ" uID="#7">
+<w>my</w>
+<w>mom</w>
+<w>says</w>
+<w>the</w>
+<w>address</w>
+<w>is</w>
+<w>oops</w>
+<w>west</w>
+<w>devon</w>
+<media start="197" end="198" unit="s"/>
+</u>
+
+<u who="SZ" uID="#7">
+<w>word</w>
+<w>for</w>
+<w>word</w>
+<media start="199" end="200" unit="s"/>
+</u>
+
+</CHAT>
+
